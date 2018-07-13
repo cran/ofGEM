@@ -1,0 +1,9 @@
+e05ec32455916d4032b5b94d575cf301 *DESCRIPTION
+21096e526f9eb8c87417fa84a8e1c912 *NAMESPACE
+7ae80ac388757b95de155c08a1a4fb98 *R/forestplot.r
+11d30b75539564d5909d03d2eefc451f *R/ofGEM.r
+b7fe39511bc46118ccac433640d7d33a *R/sim_dat.r
+89d60c05b313801c79957da3b1dc1d2c *data/sim_dat.rda
+7f795358d907d1a5f59ee86129119a0a *man/forest_plot.Rd
+0fdf05d2a6359d4c1d2804d654dc4c1b *man/ofGEM.Rd
+ba3fae392cbdc8b0e18642eee9f42844 *man/sim_dat.Rd
